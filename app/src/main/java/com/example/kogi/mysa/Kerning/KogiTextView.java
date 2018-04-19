@@ -9,10 +9,10 @@ import android.text.style.ScaleXSpan;
 import android.util.AttributeSet;
 import android.util.Log;
 
-import com.erickogi14gmail.photozuri.BuildConfig;
-import com.erickogi14gmail.photozuri.R;
+import com.example.kogi.mysa.BuildConfig;
+import com.example.kogi.mysa.R;
 
-import static com.erickogi14gmail.photozuri.Kogi.Kerning.KogiTextView.Kogi.NO_KERNING;
+import static com.example.kogi.mysa.Kerning.KogiTextView.Kogi.NO_KERNING;
 
 public class KogiTextView extends AppCompatTextView {
 
